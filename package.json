@@ -4,5 +4,8 @@
   "description": "Pro Horizon - Home Services Marketplace",
   "scripts": {
     "build": "echo 'No build needed for static HTML'"
+  },
+  "dependencies": {
+    "storyblok-js-client": "^7.2.0"
   }
 }
