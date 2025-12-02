@@ -1,0 +1,8 @@
+{
+  "name": "prohorizon1",
+  "version": "1.0.0",
+  "description": "Pro Horizon - Home Services Marketplace",
+  "scripts": {
+    "build": "echo 'No build needed for static HTML'"
+  }
+}
